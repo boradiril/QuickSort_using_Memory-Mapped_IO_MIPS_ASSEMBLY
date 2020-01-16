@@ -28,8 +28,8 @@ q     |   Quit the program             No
 
 SAMPLE EXECUTION
 ----------------
-"
-  Welcome to QuickSort
+
+ <!--  Welcome to QuickSort
   12 3 4 67 89 <s>
   The sorted array is: 3 4 12 67 89
   99 78 <c>
@@ -39,6 +39,6 @@ SAMPLE EXECUTION
   3 40 99 78 0 10 <s>
   The sorted array is: 0 3 10 13 20 40 56 78 99 99
   <q>
-  <program ends>"
-
+  <program ends>
+ -->
 
