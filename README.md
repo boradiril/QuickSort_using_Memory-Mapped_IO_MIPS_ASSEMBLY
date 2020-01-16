@@ -20,7 +20,7 @@ You are required to implement the quicksort algorithm using the MIPS assembly la
 2
 10. You may assume that no attempt will be made to check for the overflow of the array, i.e., that the count of numbers entered will never exceed the size of the array.
 
-key      Meaning                     Echo
+key      Meaning                     Echo /n \n
 0-9      The Digits 0-9              Yes
 SPACE    Blank Space                 Yes
 c        Clear/Re-initialize array    No
