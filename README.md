@@ -4,6 +4,7 @@ As a project for Intro to Software Systems, I have implemented the quicksort alg
 
 
 SPECS
+------
 
 You are required to implement the quicksort algorithm using the MIPS assembly language by completing the quicksort.asm template file provided to you. Your program must use memory-mapped I/O for both the inputs and outputs.
 
@@ -19,17 +20,17 @@ You are required to implement the quicksort algorithm using the MIPS assembly la
 2
 10. You may assume that no attempt will be made to check for the overflow of the array, i.e., that the count of numbers entered will never exceed the size of the array.
 
-key   |   Meaning                     Echo
-0-9   |   The Digits 0-9              Yes
-SPACE |   Blank Space                 Yes
-c     |   Clear/Re-initialize array    No
-s     |   Display sorted array         No
-q     |   Quit the program             No
+key      Meaning                     Echo
+0-9      The Digits 0-9              Yes
+SPACE    Blank Space                 Yes
+c        Clear/Re-initialize array    No
+s        Display sorted array         No
+q        Quit the program             No
 
 SAMPLE EXECUTION
 ----------------
 
- <!--  Welcome to QuickSort
+  Welcome to QuickSort
   12 3 4 67 89 <s>
   The sorted array is: 3 4 12 67 89
   99 78 <c>
@@ -40,5 +41,5 @@ SAMPLE EXECUTION
   The sorted array is: 0 3 10 13 20 40 56 78 99 99
   <q>
   <program ends>
- -->
+
 
